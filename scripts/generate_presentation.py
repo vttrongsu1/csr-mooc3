@@ -18,7 +18,7 @@ from reportlab.pdfgen import canvas
 
 os.makedirs('figures', exist_ok=True)
 
-GITHUB_REPO_URL = "https://github.com/DataScientist/spacex-falcon9-capstone"
+GITHUB_REPO_URL = "https://github.com/vttrongsu1/csr-mooc3"
 
 # ==============================================================================
 # PART 1: GENERATE POWERPOINT PRESENTATION (.pptx)

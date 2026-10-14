@@ -136,8 +136,8 @@ All models were evaluated using **10-fold cross-validation** with `GridSearchCV`
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/DataScientist/spacex-falcon9-capstone.git
-cd spacex-falcon9-capstone
+git clone https://github.com/vttrongsu1/csr-mooc3.git
+cd csr-mooc3
 ```
 
 ### 2. Install Required Dependencies

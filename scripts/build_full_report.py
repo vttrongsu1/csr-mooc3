@@ -26,7 +26,7 @@ from reportlab.platypus import (
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.pdfgen import canvas
 
-GITHUB_REPO_URL = "https://github.com/DataScientist/spacex-falcon9-capstone"
+GITHUB_REPO_URL = "https://github.com/vttrongsu1/csr-mooc3"
 
 # ==============================================================================
 # SECTION A: BUILD FULL POWERPOINT (.pptx)
